@@ -1,16 +1,79 @@
-# laundry_service_app
+# Laundry Service App – UI Demo
 
-A new Flutter project.
+A modern Flutter UI demo designed for laundry and dry-cleaning service apps.  
+This is a **UI-only** project focused purely on visual design, with no backend or live functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+The UI includes screens commonly found in on-demand service apps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Service selection and pricing
+- Pickup & delivery scheduling
+- Order tracking
+- Cart and payment previews
+- User profile and order history
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔍 Status
+
+**Demo only** – No backend integration or working functionality.
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="ScreenShots/1.jpg" width="220"/></td>
+    <td><img src="ScreenShots/2.jpg" width="220"/></td>
+    <td><img src="ScreenShots/3.jpg" width="220"/></td>
+    <td><img src="ScreenShots/4.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/5.jpg" width="220"/></td>
+    <td><img src="ScreenShots/6.jpg" width="220"/></td>
+    <td><img src="ScreenShots/7.jpg" width="220"/></td>
+    <td><img src="ScreenShots/8.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/9.jpg" width="220"/></td>
+    <td><img src="ScreenShots/10.jpg" width="220"/></td>
+    <td><img src="ScreenShots/11.jpg" width="220"/></td>
+    <td><img src="ScreenShots/12.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/13.jpg" width="220"/></td>
+    <td><img src="ScreenShots/14.jpg" width="220"/></td>
+    <td><img src="ScreenShots/15.jpg" width="220"/></td>
+    <td><img src="ScreenShots/16.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/17.jpg" width="220"/></td>
+    <td><img src="ScreenShots/18.jpg" width="220"/></td>
+    <td><img src="ScreenShots/19.jpg" width="220"/></td>
+    <td><img src="ScreenShots/20.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/21.jpg" width="220"/></td>
+    <td><img src="ScreenShots/22.jpg" width="220"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+## 📝 Notes
+
+- Fully built with Flutter
+- Modular components for fast UI prototyping
+- Great base for on-demand laundry or home service apps
+
+---
+
+## ✍️ Created by
+
+**Mohamed Ebrahim**
